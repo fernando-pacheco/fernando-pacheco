@@ -1,59 +1,123 @@
-# Olá, eu sou Fernando Pacheco 👋
+# 👨🏻‍💻 Fernando Pacheco
 
-## Desenvolvedor Full Stack | Python, Node.js & React
+**`Desenvolvedor FullStack`**
 
-🚀 Sou apaixonado por construir soluções eficientes e escaláveis, com experiência em várias tecnologias modernas. Gosto de criar soluções robustas tanto no backend quanto no frontend, além de trabalhar com infraestrutura e automação de processos.
+Me chamo Fernando Pacheco, tenho 27 anos e sou desenvolvedor fullstack. Tenho uma experiência sólida no desenvolvimento de sistemas e gestão de processos de qualidade em software. Atuação no gerenciamento, mapeamento, planejamento e execução de
+processos de desenvolvimento, sempre buscando a eficiência e inovação.
 
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-Aqui estão algumas das tecnologias com as quais tenho experiência:
-
-#### **Back-End**
-- 🐍 **Python** (Django, Flask)
-- 🌐 **Node.js** (Fastify)
-- 🐘 **PostgreSQL**
-
-#### **Front-End**
-- ⚛️ **React**
-- ⚛️ **NextJS**
-
-#### **DevOps**
-- 🐳 **Docker**
-- ⚙️ **CI/CD**
-- ⚡ **Nginx**
+<p align="left">
+    <a href="https://github.com/fernando-pacheco?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/fernando-pacheco?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/fernando-pacheco?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/fernando-pacheco?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
 ---
 
-### 💼 Projetos e Contribuições
+### 🤖 Linguagens e Tecnologias
 
-- 🔧 [**Projeto Django**](#) - Um sistema de gerenciamento desenvolvido com Python e Django.
-- 🚀 [**Aplicação Node.js com Fastify**](#) - API rápida e escalável com Node.js.
-- 🌍 [**Dockerized Web App**](#) - Implementação de microserviços usando Docker.
-- 🌐 [**React App**](#) - Aplicação interativa de front-end com React e Next.js.
+<img 
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Node.js"
+    title="Node.js" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker"
+    title="Docker" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Nginx"
+    title="Nginx" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js"
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind"
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SASS"
+    title="SASS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git"
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 
----
+<br/>
+<br/>
 
-### 📫 Como me encontrar
+### 📊 Estatísticas
 
-- 📧 **E-mail**: fernandopachecopx@gmail.com
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/fernando-pacheco-px/)
-- 🌐 [**Portfólio**](https://meuportfolio.com)
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=fernando-pacheco&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
----
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-pacheco&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-### 📈 Status do Projeto
-
-![Build Status](https://img.shields.io/travis/fernandopacheco/projeto.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-
----
-
-### 🔗 Vamos nos conectar
-
-Sinta-se à vontade para me enviar uma mensagem ou abrir uma issue em um dos meus repositórios se você tiver dúvidas ou quiser conversar sobre projetos interessantes!
-
----
-
-> "A tecnologia é melhor quando une as pessoas." - **Fernando Pacheco**
+</p>
