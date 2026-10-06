@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Fernando Pacheco, tenho 27 anos e sou desenvolvedor fullstack. Tenho uma experiência sólida no desenvolvimento de sistemas e gestão de processos de qualidade em software. Atuação no gerenciamento, mapeamento, planejamento e execução de
+Me chamo Fernando Pacheco, tenho 29 anos e sou desenvolvedor fullstack. Tenho uma experiência sólida no desenvolvimento de sistemas e gestão de processos de qualidade em software. Atuação no gerenciamento, mapeamento, planejamento e execução de
 processos de desenvolvimento, sempre buscando a eficiência e inovação.
 
 <p align="left">
